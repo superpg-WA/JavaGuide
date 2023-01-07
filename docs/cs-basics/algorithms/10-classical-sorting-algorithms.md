@@ -24,6 +24,8 @@ tag:
 
 ![十大排序算法](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/github/javaguide/cs-basics/sorting-algorithms/sort1.png)
 
+上图有误，插入排序最佳时间复杂度为O(n)。
+
 **图片名词解释：**
 
 - **n**：数据规模
